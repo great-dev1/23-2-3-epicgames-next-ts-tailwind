@@ -5,9 +5,7 @@
     "private": true,
     "scripts": {
         "dev": "next dev",
-        "prebuild": "ts-node --esm ./src/utility/prebuild.mts",
         "build": "next build",
-        "postbuild": "ts-node --esm ./src/utility/postbuild.mts",
         "start": "next start"
     },
     "dependencies": {
