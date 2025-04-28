@@ -128,7 +128,7 @@ const FebruarySavingsData = [
   {
     id: 2,
     url: "/",
-    image: "/images/spider-man.jfif",
+    image: "/images/spider-man.avif",
     feature: "Base game",
     title: "Marvel's Spider-Man Remastered",
     discount: -33,
@@ -188,7 +188,7 @@ const FebruarySavingsData = [
   {
     id: 8,
     url: "/",
-    image: "/images/pc-building-simulator.jfif",
+    image: "/images/pc-building-simulator.avif",
     feature: "Base game",
     title: "PC Building Simulator 2",
     discount: -15,
@@ -343,7 +343,7 @@ const TopSellersData = [
   {
     id: 4,
     url: "/",
-    image: "/images/borderlands-sm.jfif",
+    image: "/images/borderlands-sm.avif",
     title: "Borderlands 3",
     onEpic: true,
     available: "Avaliable 02/06/23",
@@ -377,7 +377,7 @@ const MostPopularData = [
   {
     id: 3,
     url: "/",
-    image: "/images/naraka.jfif",
+    image: "/images/naraka.avif",
     feature: "Base game",
     title: "NARAKA: BLADEPOINT",
     price: "$159",
@@ -528,7 +528,7 @@ const Achievements = [
   {
     id: 10,
     url: "/",
-    image: "/images/hello-neighbor.jfif",
+    image: "/images/hello-neighbor.avif",
     feature: "Base game",
     title: "Hello Neighbor 2",
     price: "$175.99",
@@ -557,7 +557,7 @@ const RecentlyUpdatedData = [
   {
     id: 3,
     url: "/",
-    image: "/images/genshin.jfif",
+    image: "/images/genshin.avif",
     feature: "Base game",
     title: "Genshin Impact",
     price: "Free",
@@ -565,7 +565,7 @@ const RecentlyUpdatedData = [
   {
     id: 4,
     url: "/",
-    image: "/images/kof.jfif",
+    image: "/images/kof.webp",
     feature: "Base game",
     title: "THE KING OF FIGHTERS XV",
     price: "$468",
@@ -613,7 +613,7 @@ const RecentlyUpdatedData = [
   {
     id: 10,
     url: "/",
-    image: "/images/sackboy.jfif",
+    image: "/images/sackboy.avif",
     feature: "Base game",
     title: "Sackboy: A Big Adventure",
     discount: -33,
